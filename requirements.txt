@@ -1,0 +1,8 @@
+wheel
+numpy # only needed for array_jit.py example
+# Unfortunately there is no proper non-ancient (python3 compatible!) release.
+git+https://github.com/Maratyszcza/PeachPy@349e8f836142b2ed0efeb6bb99b1b715d87202e9
+# For development
+ipython
+pytest
+hypothesis
